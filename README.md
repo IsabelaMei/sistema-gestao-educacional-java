@@ -21,4 +21,4 @@ Projeto desenvolvido utilizando Programação Orientada a Objetos em Java.
 
 ## Objetivo
 
-Aplicar conceitos de desenvolvimento backend e orientação a objetos.
+Aplicar conceitos de desenvolvimento backend com Java, reforçando boas práticas de organização de código, separação de responsabilidades e modelagem orientada a objetos.
